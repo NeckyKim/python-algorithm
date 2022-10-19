@@ -10,6 +10,9 @@
 from typing import List
 
 class Solution:
+    
+    # 풀이. 람다와 + 연산자를 이용
+    
     def reorderLogFiles(logs: List[str]):
         letters = []
         digits = []
