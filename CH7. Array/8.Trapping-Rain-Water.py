@@ -39,7 +39,7 @@ class Solution:
                 volume = volume + right_max - height[right]
                 right = right - 1
                 
-            print(height[left_max], height[right_max])
+            print(left, right)
                 
         return volume
     
