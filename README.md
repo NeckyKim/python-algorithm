@@ -14,9 +14,12 @@
 |**5-1**|여러가지 정렬 방법|154~158|||
 |**6**|가장 긴 팰린드롬 부분 문자열|159~165|[Longest Palindrome Substring](https://leetcode.com/longest-palindromic-substring)|*2022.10.20*|
 
-## 7. 두 수의 합
+## 7. 배열
 
 |번호|내용|페이지|리트코드|학습 날짜|
 |---|---|---|---|---|
 |**7**|두 수의 합|173~179|[Two Sum](https://leetcode.com/problems/two-sum)|*2022.10.20*|
 |**8**|빗물 트래핑|180~183|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water)|*2022.10.20*|
+|**9**|세 수의 합|184~189|[3 Sum](https://leetcode.com/problems/3sum)|*2022.10.22*|
+|**10**|배열 파티션 1|190~192|[Array Partition I](https://leetcode.com/problems/array-partition-i)|*2022.10.22*|
+|**11**|자신을 제외한 배열의 곱|193~194|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|*2022.10.22*|
