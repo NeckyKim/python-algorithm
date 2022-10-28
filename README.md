@@ -14,7 +14,7 @@
 |**5-1**|여러가지 정렬 방법|154||*2022.10.20*|
 |**6**|가장 긴 팰린드롬 부분 문자열|159|[Longest Palindrome Substring](https://leetcode.com/longest-palindromic-substring)|*2022.10.20*|
 
-<br><br>
+<br>
 
 ## 7. 배열
 
