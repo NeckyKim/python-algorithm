@@ -106,8 +106,6 @@ head = node1
 
 
 
-solution = Solution()
-
-print(solution.isPalindromeUsingList(head))
-print(solution.isPalindromeUsingDeque(head))
-print(solution.isPalindromeUsingRunner(head))
+print(Solution().isPalindromeUsingList(head))
+print(Solution().isPalindromeUsingDeque(head))
+print(Solution().isPalindromeUsingRunner(head))

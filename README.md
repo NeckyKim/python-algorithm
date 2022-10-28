@@ -28,3 +28,5 @@
 |**12**|주식을 사고팔기 가장 좋은 시점|195|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|*2022.10.24*|
 |**13**|팰린드롬 연결 리스트|201|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list)|*2022.10.24*|
 |**14**|두 정렬 리스트의 병합|213|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|*2022.10.27*|
+|**15**|역순 연결 리스트|219|[Reverse Linked Lists](https://leetcode.com/problems/reverse-linked-lists)|*2022.10.28*|
+|**16**|두 수의 덧셈|221|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|*2022.10.28*|

@@ -40,6 +40,7 @@ list1 = node1
 
 # 두 번째 연결 리스트 생성
 ## 1->3->4
+
 node4 = ListNode(2)
 node5 = ListNode(4)
 node6 = ListNode(6)
@@ -51,13 +52,10 @@ list2 = node4
 
 
 
-solution = Solution()
-answer = solution.mergeTwoLists(list1, list2)
-
-
-
 # 정답 출력
 ## 1->1->2->3->4->4
+
+answer = Solution().mergeTwoLists(list1, list2)
 
 while answer is not None:
     if answer.val:
