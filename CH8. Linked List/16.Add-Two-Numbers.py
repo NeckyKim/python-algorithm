@@ -97,6 +97,7 @@ class Solution:
 
 # 첫 번째 연결 리스트 생성
 ## 2->4->3
+
 node1 = ListNode(2)
 node2 = ListNode(4)
 node3 = ListNode(3)
