@@ -31,7 +31,6 @@ class Solution:
     def swapPairs2(self, head: ListNode):
         root = prev = ListNode(None)
         
-        
         prev.next = head
         
         while head and head.next:
